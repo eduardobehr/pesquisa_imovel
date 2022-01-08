@@ -1,4 +1,4 @@
 addresses.csv
 work_coordinates.csv
-
+*.html
 **/__pycache__/**
