@@ -4,3 +4,5 @@ work_coordinates.csv
 **/__pycache__/**
 test_map_without_request.py
 *.pyc
+venv/
+!outputs/readme.md
