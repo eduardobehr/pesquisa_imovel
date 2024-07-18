@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! python
 from folium.map import Popup
 from geopy import Nominatim
 from numpy import number #, distance

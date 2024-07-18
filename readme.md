@@ -4,8 +4,8 @@ Place addresses in file `inputs/addresses.csv` inside this subdirectory with the
 
 ```csv
 Address;Region;Rent;URL
-Rua Maria, 95, Florianópolis;Carvoeira;850;https://google.com
-Rua José, 2022, Florianópolis;Trindade;1050;https://google.com
+Maria Eduarda, 95, Florianópolis;Pantanal;850;https://google.com
+Rua José Dutra, 10, Florianópolis;Trindade;1050;https://google.com
 ```
 
 
@@ -15,7 +15,11 @@ Place the coordinates in `inputs/work_coordinates.csv` to be able to compute the
 
 ```csv
 Latitude;Longitude
-27.000000;48.000000
+-27.600886;-48.5176787
 ```
 
 **Note:** Both input files must be `;` separated
+
+## Result
+
+![image](images/example.png)

@@ -6,3 +6,5 @@ test_map_without_request.py
 *.pyc
 venv/
 !outputs/readme.md
+**/__pycache__/**
+**/.venv/**
