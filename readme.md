@@ -1,3 +1,10 @@
+# What is it
+An analyzer to find the best place to live, according the the place of work.
+It shows information such as:
+- Rent price
+- Walking distance
+- Walking time
+
 # How to use
 ## Addresses
 Place addresses in file `inputs/addresses.csv` inside this subdirectory with the following format:
